@@ -6,7 +6,7 @@ The project includes multiple pages and registration interfaces while demonstrat
 
 ##  Live Demo
 
-https://shanajtech.github.io/NEIR-Smart-Assistant/
+https://nei-rsmartassistent.vercel.app/
 
 ##  Features
 
