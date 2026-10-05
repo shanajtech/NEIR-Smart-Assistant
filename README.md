@@ -1,12 +1,102 @@
-# React + Vite
+#  NEIR Smart Assistant
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+NEIR Smart Assistant is a responsive React web application designed to provide a simple and user-friendly interface for NEIR-related information and device registration workflows.
 
-Currently, two official plugins are available:
+The project includes multiple pages and registration interfaces while demonstrating React component-based development, routing, and responsive frontend design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Live Demo
 
-## Expanding the ESLint configuration
+https://shanajtech.github.io/NEIR-Smart-Assistant/
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+##  Features
+
+- Responsive multi-page user interface
+- Home page for NEIR-related services
+- About page with relevant information
+- New device registration interface
+- Existing/old device registration interface
+- Navigation between pages using React Router
+- Reusable React components
+- Responsive layout for different screen sizes
+- Clean and user-friendly frontend design
+
+##  Technologies Used
+
+- React
+- JavaScript (ES6+)
+- React Router
+- Tailwind CSS
+- Vite
+- HTML5
+- CSS3
+
+##  Pages
+
+The application includes:
+
+- Home
+- About
+- New Device Registration
+- Old Device Registration
+
+##  React Concepts Used
+
+This project demonstrates practical use of:
+
+- React components
+- React Router
+- Component-based UI development
+- Props and reusable components
+- Event handling
+- Responsive UI structure
+
+##  Responsive Design
+
+The interface is designed to adapt across different screen sizes, including:
+
+- Desktop
+- Tablet
+- Mobile
+
+##  Run Locally
+
+Clone the repository:
+
+```bash
+git clone https://github.com/shanajtech/NEIR-Smart-Assistant.git
+```
+
+Go to the project directory:
+
+```bash
+cd NEIR-Smart-Assistant
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+##  Future Improvements
+
+- Backend integration
+- Database integration
+- Real device registration functionality
+- API integration
+- User authentication
+- Device verification and status checking
+- Improved form validation and error handling
+
+##  Developer
+
+**Shanaj Akter**  
+Frontend Developer
+
+GitHub: https://github.com/shanajtech
